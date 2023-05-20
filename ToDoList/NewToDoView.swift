@@ -38,7 +38,7 @@ struct NewToDoView: View {
                         .foregroundColor(Color(hue: 0.878, saturation: 0.971, brightness: 0.619, opacity: 0.982))
                         .frame(width: 100.0, height: 25.0)
                         .background(Color("purpleblue"))
-                        .cornerRadius(15)
+                        .cornerRadius(20)
 
                 }
             }
